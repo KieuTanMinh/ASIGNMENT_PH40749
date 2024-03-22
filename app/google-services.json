@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546594179573",
+    "project_id": "asm-ph40749",
+    "storage_bucket": "asm-ph40749.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546594179573:android:189cd559103243c854f8bc",
+        "android_client_info": {
+          "package_name": "acount.poly.asm_ph40749"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqDGMXGhPliNqmyDEdN-l7Xe_uaPJDIq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
